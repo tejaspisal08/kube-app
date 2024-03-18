@@ -4,7 +4,7 @@ metadata:
   name: vproapp-service
 spec:
   selector:
-    app: myapp
+    app: vproapp
   type: LoadBalancer
   ports:
   - port: 80
